@@ -14,7 +14,7 @@ Delinquency Insights: Highlights delinquency rates and overdue payments, segment
 
 Portfolio Performance: Displays overall credit card portfolio performance, including profitability and growth trends.
 
-Interactive Visualizations: Users can filter data by time, Gender, card type, and customer segments using slicers and Filters.
+Interactive Visualizations: Users can filter data by time, Gender, card type,Quaters and customer segments using slicers and Filters.
 
 # Tools and Technologies
 
@@ -22,4 +22,4 @@ Power BI: Used for data visualization and report building.
 
 Power Query: For data transformation, cleaning, and integration from multiple sources.
 
-DAX (Data Analysis Expressions): For creating measures and calculations, such as revenue growth rates, average spend per customer, and delinquency ratios.
+DAX (Data Analysis Expressions): For creating measures and calculations, such as revenue growth rates, average spend per customer, and Interest over transactions.
